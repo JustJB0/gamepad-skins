@@ -1,7 +1,1 @@
-/* Import the original Wolflexx Xbox skin */
-@import url("https://Wolflexx.github.io/simgii+xbox+-+update/xbxsim.css");
-
-/* Neon Purple Glow (Twitch Style #9146FF vibe) */
-.controller {
-  filter: hue-rotate(255deg) saturate(190%) brightness(115%);
-}
+https://wolflexx.github.io/simgii+xbox+-+update/xbxsim.css

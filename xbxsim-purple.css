@@ -264,3 +264,17 @@
 
 /*END Xbox One Controller Styling*/
 
+/* --- Neon Purple color-shift (turn the blue glow purple) --- */
+.controller.xbox,
+.xbox.white,
+.xbox .quadrant,
+.xbox .button,
+.xbox .stick,
+.xbox .face,
+.xbox .trigger,
+.xbox .bumper,
+.xbox .back,
+.xbox .start {
+  -webkit-filter: hue-rotate(255deg) saturate(190%) brightness(115%);
+  filter: hue-rotate(255deg) saturate(190%) brightness(115%);
+}

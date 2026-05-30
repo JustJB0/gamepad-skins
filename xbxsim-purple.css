@@ -264,17 +264,3 @@
 
 /*END Xbox One Controller Styling*/
 
-/* --- Purple color shift --- */
-.controller.xbox,
-.xbox.white,
-.xbox .quadrant,
-.xbox .button,
-.xbox .stick,
-.xbox .face,
-.xbox .trigger,
-.xbox .bumper,
-.xbox .back,
-.xbox .start {
-    filter: hue-rotate(255deg) saturate(190%) brightness(115%);
-    -webkit-filter: hue-rotate(255deg) saturate(190%) brightness(115%);
-}

@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(basemod.gif);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/basemod.gif");
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(basemod.gif);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/basemod.gif");
 }
 
 .xbox.disconnected {
-    background: url(Disconnected.gif);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/Disconnected.gif");
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/trigger.png");
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/bumper.png");
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/quadrant.png");
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/start-select.png");
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(abxy.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/abxy.png");
     width: 48px;
     height: 48px;
 }
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/stick.png");
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(dpad.png);
+    background: url("https://Wolflexx.github.io/simgii%20xbox%20-%20update/dpad.png");
     position: absolute;
     opacity: 0;
 }

@@ -278,7 +278,3 @@
     filter: hue-rotate(90deg) saturate(250%) brightness(115%);
     -webkit-filter: hue-rotate(90deg) saturate(250%) brightness(115%);
 }
-
-html, body {
-    background: #00FF00 !important;
-}

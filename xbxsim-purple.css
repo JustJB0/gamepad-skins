@@ -275,6 +275,6 @@
 .xbox .bumper,
 .xbox .back,
 .xbox .start {
-  -webkit-filter: hue-rotate(255deg) saturate(190%) brightness(115%);
-  filter: hue-rotate(255deg) saturate(190%) brightness(115%);
+  -webkit-filter: hue-rotate(0deg) saturate(100%) brightness(100%);
+  filter: hue-rotate(0deg) saturate(100%) brightness(100%);
 }
